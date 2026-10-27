@@ -1,0 +1,9 @@
+{
+  "id" : "ec522136-6aa6-4258-a21a-a55b4e9c87af",
+  "targets" : [
+    {
+      "id" : "c1447b7d-6a11-43c1-ac78-18f97007c6ed",
+      "name" : "RPMGauge"
+    }
+  ]
+}
